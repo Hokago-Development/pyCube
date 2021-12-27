@@ -2,4 +2,8 @@
 A cube game made in python using perlin-noise and ursina
 
 
-Dont't use python 3.10.0 to run it
+## Clone
+Open git bash/terminal and type ```git clone https://github.com/Hokago-Development/pyCube.git
+cd pyCube
+pip install -r requirements.txt
+```
